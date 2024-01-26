@@ -521,6 +521,13 @@ form .send-btn:hover{
     .main-content p{
         width: 100%;
     }
+    .copyright p{
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+    }
 }
 
 @media (max-width: 360px){
@@ -537,4 +544,11 @@ form .send-btn:hover{
         object-fit: cover;
         margin: 0 auto;
     }
+    .copyright p{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+      }
 }
