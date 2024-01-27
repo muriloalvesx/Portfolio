@@ -6,6 +6,22 @@ window.addEventListener("scroll", function() {
 
 let menu = document.querySelector('#menu-icon');
 let navlist = document.querySelector('.navlist');
+let count = 1;
+
+document.getElementById("radio1").checked = true;
+
+setInterval(function(){
+    nextImage();
+}, 2000)
+
+function nextImage(){
+    count++;
+    if(count>12){
+        count = 1;
+    }
+
+document.getElementById("radio"+count).checked = true;
+}
 
 menu.onclick = () => {
     menu.classList.toggle('bx-x');
