@@ -10,7 +10,7 @@ intervalId = setInterval(function () {
 
 function nextImage() {
     count++;
-    if (count > 12) {
+    if (count > 14) {
         count = 1;
     }
 
