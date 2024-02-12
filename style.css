@@ -395,12 +395,18 @@ cursor: pointer;
     margin-left: -75%;
 }
 #radio10:checked ~ .first{
-    margin-left: 0%;
+    margin-left: -100%;
 }
 #radio11:checked ~ .first{
-    margin-left: -25%;
+    margin-left: -125%;
 }
 #radio12:checked ~ .first{
+    margin-left: 0%;
+}
+#radio13:checked ~ .first{
+    margin-left: -25%;
+}
+#radio14:checked ~ .first{
     margin-left: -50%;
 }
 .navigation-auto div{
