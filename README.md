@@ -11,6 +11,6 @@ Portifólio para apresentação pessoal desenvolvido em HTML5, CSS3 e JAVASCRIPT
 </div><br/>
 
 <div style="display: flex"><br/>
-<img align="center" alt="portifolio2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/174101af-5a7a-4039-88f1-72bb973e7e10" width="400px"/>
-<img align="center" alt="portifolio2"src="https://github.com/muriloalvesx/Portfolio/assets/153781890/be501158-ac86-4bb9-a576-eeb986bd6dff" width="430px"/>
+<img align="center" alt="portifolio2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/174101af-5a7a-4039-88f1-72bb973e7e10" width="390px"/>
+<img align="center" alt="portifolio2"src="https://github.com/muriloalvesx/Portfolio/assets/153781890/be501158-ac86-4bb9-a576-eeb986bd6dff" width="420px"/>
 </div><br/>
