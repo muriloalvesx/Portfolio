@@ -1,6 +1,6 @@
-## Portifólio Murilo Alves - Profissional 💼
+## Portfólio Murilo Alves - Profissional 💼
 
-Portifólio para apresentação pessoal desenvolvido em HTML5, CSS3 e JAVASCRIPT.
+Portfólio para apresentação pessoal desenvolvido em HTML5, CSS3 e JAVASCRIPT.
 
 ### Tecnologias Utilizadas
 
